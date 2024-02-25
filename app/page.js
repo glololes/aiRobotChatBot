@@ -61,7 +61,7 @@ export default function Home() {
     <main className="container mx-auto max-w-4xl">
       <div className="grid grid-cols-2">
         <div
-          className={`bg-blue-400 relative py-4 px-4 flex flex-col justify-center ${
+          className={`bg-pink-200 relative py-4 px-4 flex flex-col justify-center ${
             loading ? "animate-pulse" : ""
           }`}
         >
